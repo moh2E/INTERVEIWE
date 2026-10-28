@@ -1,0 +1,8 @@
+{
+  "name": "InterviewMate AI",
+  "description": "Plateforme intelligente de préparation et simulation d'entretiens d'embauche et stages propulsée par l'IA",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
